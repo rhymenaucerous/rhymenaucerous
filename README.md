@@ -1,6 +1,6 @@
 ## About me
 - I'm currently learning C and Python in the context of the UNIX/Linux OS
-- I will begin working on Windows OS in 2024
+- I will begin studying and developing within Windows OS in 2024
 
 ## Technologies
 - C
