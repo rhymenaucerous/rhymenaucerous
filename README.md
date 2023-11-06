@@ -10,9 +10,9 @@
 - NMR/Mass Spectroscopy 🤓
 
 ## 📈 Stats
-<a href="https://github.com/christopher-r-elliott">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christopher-r-elliott&show_icons=true&theme=github_dark" />
+<a href="https://github.com/rhymenaucerous">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhymenaucerous&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/christopher-r-elliott">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-r-elliott&layout=compact&theme=github_dark&langs_count=10" />
+<a href="https://github.com/rhymenaucerous">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhymenaucerous&layout=compact&theme=github_dark&langs_count=10" />
 </a>
