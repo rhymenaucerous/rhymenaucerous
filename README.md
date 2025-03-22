@@ -1,2 +1,19 @@
-# README
-Personal Github README
+## About me
+- Security Researcher
+- HUGE WIN32 API guy
+- Backend focused
+
+## Technologies
+- C/C++/C#
+- Python
+- Matlab
+- Mathematica
+- NMR/Mass Spectroscopy 🤓
+
+## 📈 Stats
+<a href="https://github.com/rhymenaucerous">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhymenaucerous&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/rhymenaucerous">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhymenaucerous&layout=compact&theme=github_dark&langs_count=10" />
+</a>
